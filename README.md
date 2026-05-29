@@ -174,21 +174,4 @@ This will automatically:
 5. Generate performance plots in `results/evaluation_results.png`.
 
 ---
-
-## 🎓 Academic Attribution & Citations
-This work was developed at **Christ University, Bengaluru** within the **Department of Computer Science**. Special thanks to the academic mentors, peers, and institutional facilities that supported this research.
-
-If you find this research or code useful, please cite:
-```bibtex
-@article{sharma2026braf,
-  title={BRAF Gene Mutation Anomaly Detection Using LLR and Sequence Likelihood Modeling},
-  author={Sharma, Aditya},
-  journal={Department of Computer Science, Christ University},
-  year={2026},
-  institution={Christ University, Bengaluru},
-  note={Google Docs Paper Draft}
-}
-```
-
----
-*For any inquiries regarding model capabilities, dataset access, or biological methodology, please contact the author at `aditya.sharma@msam.christuniversity.in`.*
+*For any inquiries regarding model capabilities, dataset access, or biological methodology, please contact the author at `aditya122sharma@gmail.com`.*
