@@ -1,0 +1,11 @@
+{
+  "k": 3,
+  "vocab_size": 69,
+  "special_tokens": {
+    "[PAD]": 0,
+    "[UNK]": 1,
+    "[CLS]": 2,
+    "[SEP]": 3,
+    "[MASK]": 4
+  }
+}
